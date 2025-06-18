@@ -1,3 +1,4 @@
+import CustomizationPanel from '@/components/CustomizationPanel.vue';
 <!-- src/views/Customization.vue -->
 <template>
   <div class="customization">
